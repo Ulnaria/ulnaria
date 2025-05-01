@@ -1,5 +1,5 @@
 # Ulnaria Core Integration
-https://app.flutterflow.io/graalwallet
+https://ulnaria.flutterflow.app
 
 ## What is *Ulnaria Core*?
 Ulnaria Core connects to the decentralized Ulnaria exchange to fully download and validate transactions and code. It includes a wallet, a swap engine, market data, an NFT marketplace, staking, and a graphical user interface.
