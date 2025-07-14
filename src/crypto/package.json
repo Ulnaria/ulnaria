@@ -1,9 +1,0 @@
-{
-    "name": "my-first-tatum-dapp",
-    "version": "1.0.0",
-    "source": "./index.html",
-    "license": "MIT",
-    "dependencies": {
-      "@tatumio/tatum": "^3.0.0"
-    }
-  }

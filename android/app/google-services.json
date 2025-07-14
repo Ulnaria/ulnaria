@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916535183041",
+    "project_id": "graalwallet",
+    "storage_bucket": "graalwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916535183041:android:5b5dc00fbdc60cf242f640",
+        "android_client_info": {
+          "package_name": "com.mycompany.graalwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgZ2gfIRsmDsSU2a_Yn4cSZeHfAQm9_3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
