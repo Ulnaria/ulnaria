@@ -2,7 +2,7 @@
 https://ulnaria.io
 
 ## What is *Ulnaria Core*?
-Ulnaria Core connects to the decentralized Ulnaria exchange to fully download and validate transactions and code. It includes a wallet, a swap engine, market data, an NFT marketplace, staking, and a graphical user interface.
+Ulnaria Core connects to the decentralized Ulnaria platform to fully download and validate transactions and code. It includes a wallet, a swap engine, market data, an NFT marketplace, and a graphical user interface.
 
 PS: We would like to point out here that we are primarily inspired by the parent blockchain, Bitcoin, and the work carried out by its development team, Bitcoin Core.
 
